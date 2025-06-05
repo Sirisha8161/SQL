@@ -6,7 +6,7 @@
 
 **INTERN ID**: CT04DN03
 
-**dOMAIN**: SQL
+**DOMAIN**: SQL
 
 **DURATION**: 4 WEEKS
 
